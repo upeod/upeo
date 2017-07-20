@@ -1,0 +1,101 @@
+{
+    "projects": [ 
+        {
+            "preview": {
+                "img": "images/pro1.jpg"
+            },
+            "images": {
+                "img1": "images/pro1/pro1-prev1.jpg",
+                "img2": "images/pro1/pro1-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 1",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/pro2.jpg"
+            },
+            "images": {
+                "img1": "images/pro2/pro2-prev1.jpg",
+                "img2": "images/pro2/pro2-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 2",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/pro3.jpg"
+            },
+            "images": {
+                "img1": "images/pro3/pro3-prev1.jpg",
+                "img2": "images/pro3/pro3-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 3",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/pro1.jpg"
+            },
+            "images": {
+                "img1": "images/pro1/pro1-prev1.jpg",
+                "img2": "images/pro1/pro1-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 4",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/pro2.jpg"
+            },
+            "images": {
+                "img1": "images/pro2/pro2-prev1.jpg",
+                "img2": "images/pro2/pro2-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 5",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/pro3.jpg"
+            },
+            "images": {
+                "img1": "images/pro3/pro3-prev1.jpg",
+                "img2": "images/pro3/pro3-prev2.jpg"
+            },
+            "details": {
+                "title": "Project 6",
+                "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut vehicula ante. Donec turpis est, pulvinar sed ipsum sed, hendrerit blandit mauris. Cras egestas eget augue vel pulvinar.",
+                "skills": "Auctor lobortis<br>Vel scelerisque<br>posuere imperdiet",
+                "datecompleted": "June 01, 2016",
+                "link": "http://brandio.io"
+            }
+        }
+        
+    ]
+}
