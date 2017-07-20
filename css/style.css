@@ -68,7 +68,7 @@
 	2. Header Styles
 -------------------------------------------------------------------*/
 #header-holder{
-    background-image: url("../images/headerbg.jpg");
+    background-image: url("../images/bgz.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -260,7 +260,7 @@
     padding-right: 0;
 }
 #about .img-col .image-holder{
-    background-image: url("../images/office.jpg");
+    background-image: url("../images/bgx.jpg");
     background-position: center;
     background-size: cover;
     transition: none;
